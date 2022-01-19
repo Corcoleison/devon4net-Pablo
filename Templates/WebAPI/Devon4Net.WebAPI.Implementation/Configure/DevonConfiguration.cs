@@ -92,6 +92,7 @@ namespace Devon4Net.WebAPI.Implementation.Configure
         {
             services.AddFluentValidation<TodosFluentValidator>(true);
             services.AddFluentValidation<EmployeeFluentValidator>(true);
+            services.AddFluentValidation<EmployerFluentValidator>(true);
         }
 
         /// <summary>
@@ -106,6 +107,9 @@ namespace Devon4Net.WebAPI.Implementation.Configure
         {
             services.SetupDatabase<TodoContext>(configuration, "Default", DatabaseType.InMemory);
             services.SetupDatabase<EmployeeContext>(configuration, "Employee", DatabaseType.InMemory);
+            services.SetupDatabase<EmployerContext>(configuration, "Employer", DatabaseType.InMemory);
+
+
         }
 
         private static void SetupJwtPolicies(ref IServiceCollection services)
