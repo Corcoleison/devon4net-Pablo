@@ -19,37 +19,37 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         /// <returns></returns>
         Task<IEnumerable<EmployerDto>> GetEmployer(Expression<Func<Employer, bool>> predicate = null);
 
-        ///// <summary>
-        ///// GetEmployeeById
-        ///// </summary>
-        ///// <param name="id"></param>
-        ///// <returns></returns>
-        //Task<Employee> GetEmployerById(long id);
+        /// <summary>
+        /// GetEmployeeById
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        Task<Employer> GetEmployerById(long id);
 
-        ///// <summary>
-        ///// CreateEmployee
-        ///// </summary>
-        ///// <param name="name"></param>
-        ///// <param name="surName"></param>
-        ///// <param name="mail"></param>
-        ///// <returns></returns>
-        //Task<Employee> CreateEmployer(string name, string surName, string mail);
+        /// <summary>
+        /// CreateEmployee
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="surName"></param>
+        /// <param name="mail"></param>
+        /// <returns></returns>
+        Task<Employer> CreateEmployer(string name);
 
-        ///// <summary>
-        ///// DeleteEmployeeById
-        ///// </summary>
-        ///// <param name="id"></param>
-        ///// <returns></returns>
-        //Task<long> DeleteEmployerById(long id);
+        /// <summary>
+        /// DeleteEmployeeById
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        Task<long> DeleteEmployerById(long id);
 
-        ///// <summary>
-        ///// ModifyEmployeeById
-        ///// </summary>
-        ///// <param name="id"></param>
-        ///// <param name="name"></param>
-        ///// <param name="surName"></param>
-        ///// <param name="mail"></param>
-        ///// <returns></returns>
-        //Task<Employee> ModifyEmployerById(long id, string name, string surName, string mail);
+        /// <summary>
+        /// ModifyEmployeeById
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="name"></param>
+        /// <param name="surName"></param>
+        /// <param name="mail"></param>
+        /// <returns></returns>
+        Task<Employer> ModifyEmployerById(long id, string name);
     }
 }

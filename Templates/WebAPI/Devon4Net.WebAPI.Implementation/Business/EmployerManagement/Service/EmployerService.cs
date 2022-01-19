@@ -43,87 +43,75 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
             return result.Select(EmployerConverter.ModelToDto);
         }
 
-        ///// <summary>
-        ///// Gets the Employee by id
-        ///// </summary>
-        ///// <param name="id"></param>
-        ///// <returns></returns>
-        //public Task<Employee> GetEmployeeById(long id)
-        //{
-        //    Devon4NetLogger.Debug($"GetEmployeeById method from service Employeeervice with value : {id}");
-        //    return _employeeRepository.GetEmployeeById(id);
-        //}
-
-        ///// <summary>
-        ///// Creates the Employee
-        ///// </summary>
-        ///// <param name="name"></param>
-        ///// <param name="surName"></param>
-        ///// <param name="mail"></param>
-        ///// <returns></returns>
-        //public Task<Employee> CreateEmployee(string name, string surName, string mail)
-        //{
-        //    Devon4NetLogger.Debug($"SetEmployee method from service Employeeervice with value : {name}, {surName}, {mail}");
-
-        //    if (string.IsNullOrEmpty(name) || string.IsNullOrWhiteSpace(name))
-        //    {
-        //        throw new ArgumentException("The 'name' field can not be null.");
-        //    }
-
-        //    if (string.IsNullOrEmpty(surName) || string.IsNullOrWhiteSpace(surName))
-        //    {
-        //        throw new ArgumentException("The 'surName' field can not be null.");
-        //    }
-
-        //    if (string.IsNullOrEmpty(mail) || string.IsNullOrWhiteSpace(mail))
-        //    {
-        //        throw new ArgumentException("The 'mail' field can not be null.");
-        //    }
-
-        //    return _employeeRepository.Create(name, surName, mail);
-        //}
-        
-        ///// <summary>
-        ///// Deletes the Employee by id
-        ///// </summary>
-        ///// <param name="id"></param>
-        ///// <returns></returns>
-        //public async Task<long> DeleteEmployeeById(long id)
-        //{
-        //    Devon4NetLogger.Debug($"DeleteEmployeeById method from service Employeeervice with value : {id}");
-        //    var employee = await _employeeRepository.GetFirstOrDefault(t => t.Id == id).ConfigureAwait(false);
-
-        //    if (employee == null)
-        //    {
-        //        throw new ArgumentException($"The provided Id {id} does not exists");
-        //    }
-
-        //    return await _employeeRepository.DeleteEmployeeById(id).ConfigureAwait(false);
-        //}
-
         /// <summary>
-        /// Modifies te state of the Employee by id
+        /// Gets the Employee by id
         /// </summary>
         /// <param name="id"></param>
+        /// <returns></returns>
+        public Task<Employer> GetEmployerById(long id)
+        {
+            Devon4NetLogger.Debug($"GetEmployeeById method from service Employeeervice with value : {id}");
+            return _employerRepository.GetEmployerById(id);
+        }
+
+        /// <summary>
+        /// Creates the Employee
+        /// </summary>
         /// <param name="name"></param>
         /// <param name="surName"></param>
         /// <param name="mail"></param>
         /// <returns></returns>
-        //public async Task<Employee> ModifyEmployeeById(long id, string name, string surName, string mail)
-        //{
-        //    Devon4NetLogger.Debug($"ModifyEmployeeById method from service Employeeervice with value : {id}");
-        //    var employee = await _employeeRepository.GetFirstOrDefault(t => t.Id == id).ConfigureAwait(false);
+        public Task<Employer> CreateEmployer(string name)
+        {
+            Devon4NetLogger.Debug($"SetEmployer method from service Employer service with value : {name}");
 
-        //    if (employee == null)
-        //    {
-        //        throw new EmployeeNotFoundException($"The employee with id {id} does not exists and is not possible to delete.");
-        //    }
+            if (string.IsNullOrEmpty(name) || string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentException("The 'name' field can not be null.");
+            }
 
-        //    employee.Name= name;
-        //    employee.Surname = surName;
-        //    employee.Mail= mail;
+            return _employerRepository.Create(name);
+        }
 
-        //    return await _employeeRepository.Update(employee).ConfigureAwait(false);
-        //}
+        /// <summary>
+        /// Deletes the Employee by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        public async Task<long> DeleteEmployerById(long id)
+        {
+            Devon4NetLogger.Debug($"DeleteEmployerById method from service Employeeervice with value : {id}");
+            var employee = await _employerRepository.GetFirstOrDefault(t => t.Id == id).ConfigureAwait(false);
+
+            if (employee == null)
+            {
+                throw new ArgumentException($"The provided Id {id} does not exists");
+            }
+
+            return await _employerRepository.DeleteEmployerById(id).ConfigureAwait(false);
+        }
+
+        // <summary>
+        // Modifies te state of the Employee by id
+        // </summary>
+        // <param name="id"></param>
+        // <param name="name"></param>
+        // <param name="surName"></param>
+        // <param name="mail"></param>
+        // <returns></returns>
+        public async Task<Employer> ModifyEmployerById(long id, string name)
+        {
+            Devon4NetLogger.Debug($"ModifyEmployerById method from service Employer service with value : {id}");
+            var employee = await _employerRepository.GetFirstOrDefault(t => t.Id == id).ConfigureAwait(false);
+
+            if (employee == null)
+            {
+                throw new EmployerNotFoundException($"The employee with id {id} does not exists and is not possible to delete.");
+            }
+
+            employee.Name = name;
+
+            return await _employerRepository.Update(employee).ConfigureAwait(false);
+        }
     }
 }

@@ -45,55 +45,55 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
             return Ok(await _employerService.GetEmployer().ConfigureAwait(false));
         }
 
-    //    /// <summary>
-    //    /// Creates an employee
-    //    /// </summary>
-    //    /// <returns></returns>
-    //    [HttpPost]
-    //    [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status201Created)]
-    //    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    //    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    //    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    //    public async Task<ActionResult> Create(EmployerDto EmployerDto)
-    //    {
-    //        Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
-    //        var result = await _employerService.CreateEmployee(EmployerDto.Name, EmployerDto.Surname, EmployerDto.Mail).ConfigureAwait(false);
-    //        return StatusCode(StatusCodes.Status201Created, result);
-    //    }
+        /// <summary>
+        /// Creates an employee
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<ActionResult> Create(EmployerDto EmployerDto)
+        {
+            Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
+            var result = await _employerService.CreateEmployer(EmployerDto.Name).ConfigureAwait(false);
+            return StatusCode(StatusCodes.Status201Created, result);
+        }
 
-    //    /// <summary>
-    //    /// Deletes the employee provided the id
-    //    /// </summary>
-    //    /// <returns></returns>
-    //    [HttpDelete]
-    //    [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status200OK)]
-    //    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    //    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    //    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    //    public async Task<ActionResult> Delete([Required]long employeeId)
-    //    {
-    //        Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
-    //        return Ok(await _employerService.DeleteEmployeeById(employeeId).ConfigureAwait(false));
-    //    }
+        /// <summary>
+        /// Deletes the employee provided the id
+        /// </summary>
+        /// <returns></returns>
+        [HttpDelete]
+        [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<ActionResult> Delete([Required] long employeeId)
+        {
+            Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
+            return Ok(await _employerService.DeleteEmployerById(employeeId).ConfigureAwait(false));
+        }
 
-    //    /// <summary>
-    //    /// Modifies the done status of the employee provided the data of the employee
-    //    /// In this sample, all the data fields are mandatory
-    //    /// </summary>
-    //    /// <returns></returns>
-    //    [HttpPut]
-    //    [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status200OK)]
-    //    [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    //    [ProducesResponseType(StatusCodes.Status404NotFound)]
-    //    [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-    //    public async Task<ActionResult> ModifyEmployee(EmployerDto EmployerDto)
-    //    {
-    //        Devon4NetLogger.Debug("Executing ModifyEmployee from controller EmployeeController");
-    //        if (EmployerDto == null || EmployerDto.Id == 0)
-    //        {
-    //            return BadRequest("The id of the employee must be provided");
-    //        }
-    //        return Ok(await _employerService.ModifyEmployeeById(EmployerDto.Id, EmployerDto.Name, EmployerDto.Surname, EmployerDto.Mail).ConfigureAwait(false));
-    //    }
+        /// <summary>
+        /// Modifies the done status of the employee provided the data of the employee
+        /// In this sample, all the data fields are mandatory
+        /// </summary>
+        /// <returns></returns>
+        [HttpPut]
+        [ProducesResponseType(typeof(EmployerDto), StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<ActionResult> ModifyEmployee(EmployerDto EmployerDto)
+        {
+            Devon4NetLogger.Debug("Executing ModifyEmployee from controller EmployeeController");
+            if (EmployerDto == null || EmployerDto.Id == 0)
+            {
+                return BadRequest("The id of the employee must be provided");
+            }
+            return Ok(await _employerService.ModifyEmployerById(EmployerDto.Id, EmployerDto.Name).ConfigureAwait(false));
+        }
     }
 }
