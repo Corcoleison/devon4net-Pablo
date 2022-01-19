@@ -1,0 +1,16 @@
+﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Commands\Command.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Common\DatabaseConst.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Common\QueueActionsEnum.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Data\Service\RabbitMqBackupLiteDbService.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Data\Service\RabbitMqBackupService.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Database\RabbitMqBackupContext.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Database\RabbitMqBackupLiteDbContext.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Entities\RabbitBackup.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\ServiceInterfaces\IRabbitMqBackupLiteDbService.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\ServiceInterfaces\IRabbitMqBackupService.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Events\Message.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Handlers\RabbitMqHandler.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\RabbitMqConfiguration.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Samples\Commads\UserSampleCommand.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Samples\Handllers\UserSampleRabbitMqHandler.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\RabbitMqBackupSqLite.db
