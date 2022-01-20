@@ -11,7 +11,7 @@ using Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces;
 namespace Devon4Net.WebAPI.Implementation.Data.Repositories
 {
     /// <summary>
-    /// Repository implementation for the Employee
+    /// Repository implementation for the Employer
     /// </summary>
     public class EmployerRepository : Repository<Employer>, IEmployerRepository
     {
@@ -30,7 +30,7 @@ namespace Devon4Net.WebAPI.Implementation.Data.Repositories
         /// <returns></returns>
         public Task<IList<Employer>> GetEmployer(Expression<Func<Employer, bool>> predicate = null)
         {
-            Devon4NetLogger.Debug("GetTodo method from TodoRepository Employeeervice");
+            Devon4NetLogger.Debug("GetTodo method from TodoRepository Employerservice");
             return Get(predicate);
         }
 
@@ -49,8 +49,6 @@ namespace Devon4Net.WebAPI.Implementation.Data.Repositories
         /// Creates the TODO
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="surName"></param>
-        /// <param name="mail"></param>
         /// <returns></returns>
         public Task<Employer> Create(string name)
         {

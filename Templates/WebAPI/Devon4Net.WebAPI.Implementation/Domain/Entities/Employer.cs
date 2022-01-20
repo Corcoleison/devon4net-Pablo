@@ -1,7 +1,7 @@
 ﻿namespace Devon4Net.WebAPI.Implementation.Domain.Entities
 {
     /// <summary>
-    /// Entity class for Employee
+    /// Entity class for Employer
     /// </summary>
     public partial class Employer
     {

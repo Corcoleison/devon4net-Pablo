@@ -13,14 +13,14 @@ namespace Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces
     public interface IEmployerRepository : IRepository<Employer>
     {
         /// <summary>
-        /// GetEmployee
+        /// GetEmployer
         /// </summary>
         /// <param name="predicate"></param>
         /// <returns></returns>
         Task<IList<Employer>> GetEmployer(Expression<Func<Employer, bool>> predicate = null);
 
         /// <summary>
-        /// GetEmployeeById
+        /// GetEmployerById
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -30,13 +30,11 @@ namespace Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces
         /// Create
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="surName"></param>
-        /// <param name="mail"></param>
         /// <returns></returns>
         Task<Employer> Create(string name);
 
         /// <summary>
-        /// DeleteEmployeeById
+        /// DeleteEmployerById
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>

@@ -1,4 +1,4 @@
-﻿    using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -16,7 +16,7 @@ using Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces;
 namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
 {
     /// <summary>
-    /// Employee service implementation
+    /// Employer service implementation
     /// </summary>
     public class EmployerService: Service<EmployerContext>, IEmployerService
     {
@@ -32,19 +32,19 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         }
 
         /// <summary>
-        /// Gets the Employee
+        /// Gets the Employer
         /// </summary>
         /// <param name="predicate"></param>
         /// <returns></returns>
         public async Task<IEnumerable<EmployerDto>> GetEmployer(Expression<Func<Employer, bool>> predicate = null)
         {
-            Devon4NetLogger.Debug("GetEmployee method from service Employeeervice");
+            Devon4NetLogger.Debug("GetEmployee method from service EmployerService");
             var result = await _employerRepository.GetEmployer(predicate).ConfigureAwait(false);
             return result.Select(EmployerConverter.ModelToDto);
         }
 
         /// <summary>
-        /// Gets the Employee by id
+        /// Gets the Employer by id
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -55,11 +55,9 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         }
 
         /// <summary>
-        /// Creates the Employee
+        /// Creates the Employer
         /// </summary>
         /// <param name="name"></param>
-        /// <param name="surName"></param>
-        /// <param name="mail"></param>
         /// <returns></returns>
         public Task<Employer> CreateEmployer(string name)
         {
@@ -74,7 +72,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         }
 
         /// <summary>
-        /// Deletes the Employee by id
+        /// Deletes the Employer by id
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
@@ -91,14 +89,12 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
             return await _employerRepository.DeleteEmployerById(id).ConfigureAwait(false);
         }
 
-        // <summary>
-        // Modifies te state of the Employee by id
-        // </summary>
-        // <param name="id"></param>
-        // <param name="name"></param>
-        // <param name="surName"></param>
-        // <param name="mail"></param>
-        // <returns></returns>
+        /// <summary>
+        /// Modifies te state of the Employee by id
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public async Task<Employer> ModifyEmployerById(long id, string name)
         {
             Devon4NetLogger.Debug($"ModifyEmployerById method from service Employer service with value : {id}");

@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers
 {
     /// <summary>
-    /// Employees controller
+    /// Employers controller
     /// </summary>
     [ApiController]
     [Route("[controller]")]
@@ -31,7 +31,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
 
 
         /// <summary>
-        /// Gets the entire list of employees
+        /// Gets the entire list of employers
         /// </summary>
         /// <returns></returns>
         [HttpGet]
@@ -39,14 +39,14 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<ActionResult> GetEmployee()
+        public async Task<ActionResult> GetEmployer()
         {
-            Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
+            Devon4NetLogger.Debug("Executing GetEmployer from controller EmployerController");
             return Ok(await _employerService.GetEmployer().ConfigureAwait(false));
         }
 
         /// <summary>
-        /// Creates an employee
+        /// Creates an employer
         /// </summary>
         /// <returns></returns>
         [HttpPost]
@@ -56,13 +56,13 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> Create(EmployerDto EmployerDto)
         {
-            Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
+            Devon4NetLogger.Debug("Executing GetEmployer from controller EmployerController");
             var result = await _employerService.CreateEmployer(EmployerDto.Name).ConfigureAwait(false);
             return StatusCode(StatusCodes.Status201Created, result);
         }
 
         /// <summary>
-        /// Deletes the employee provided the id
+        /// Deletes the employer provided the id
         /// </summary>
         /// <returns></returns>
         [HttpDelete]
@@ -72,12 +72,12 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> Delete([Required] long employeeId)
         {
-            Devon4NetLogger.Debug("Executing GetEmployee from controller EmployeeController");
+            Devon4NetLogger.Debug("Executing GetEmployer from controller EmployerController");
             return Ok(await _employerService.DeleteEmployerById(employeeId).ConfigureAwait(false));
         }
 
         /// <summary>
-        /// Modifies the done status of the employee provided the data of the employee
+        /// Modifies the done status of the employee provided the data of the employer
         /// In this sample, all the data fields are mandatory
         /// </summary>
         /// <returns></returns>
@@ -88,7 +88,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> ModifyEmployee(EmployerDto EmployerDto)
         {
-            Devon4NetLogger.Debug("Executing ModifyEmployee from controller EmployeeController");
+            Devon4NetLogger.Debug("Executing ModifyEmployer from controller EmployerController");
             if (EmployerDto == null || EmployerDto.Id == 0)
             {
                 return BadRequest("The id of the employee must be provided");

@@ -30,7 +30,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions
         }
 
         /// <summary>
-        /// Initializes a new instance of the <see cref="EmployeeNotFoundException"/> class.
+        /// Initializes a new instance of the <see cref="EmployerNotFoundException"/> class.
         /// </summary>
         /// <param name="message">The message that describes the error.</param>
         public EmployerNotFoundException(string message)

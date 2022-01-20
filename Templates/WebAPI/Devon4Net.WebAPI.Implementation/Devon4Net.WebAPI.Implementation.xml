@@ -527,7 +527,7 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController">
             <summary>
-            Employees controller
+            Employers controller
             </summary>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.#ctor(Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService)">
@@ -536,27 +536,27 @@
             </summary>
             <param name="employeeService"></param>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.GetEmployee">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.GetEmployer">
             <summary>
-            Gets the entire list of employees
+            Gets the entire list of employers
             </summary>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.Create(Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto)">
             <summary>
-            Creates an employee
+            Creates an employer
             </summary>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.Delete(System.Int64)">
             <summary>
-            Deletes the employee provided the id
+            Deletes the employer provided the id
             </summary>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.ModifyEmployee(Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto)">
             <summary>
-            Modifies the done status of the employee provided the data of the employee
+            Modifies the done status of the employee provided the data of the employer
             In this sample, all the data fields are mandatory
             </summary>
             <returns></returns>
@@ -575,7 +575,7 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto">
             <summary>
-            Employee definition
+            Employer definition
             </summary>
         </member>
         <member name="P:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto.Id">
@@ -610,13 +610,13 @@
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions.EmployerNotFoundException.#ctor(System.String)">
             <summary>
-            Initializes a new instance of the <see cref="!:EmployeeNotFoundException"/> class.
+            Initializes a new instance of the <see cref="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions.EmployerNotFoundException"/> class.
             </summary>
             <param name="message">The message that describes the error.</param>
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService">
             <summary>
-            Employee service implementation
+            Employer service implementation
             </summary>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.#ctor(Devon4Net.Domain.UnitOfWork.UnitOfWork.IUnitOfWork{Devon4Net.WebAPI.Implementation.Domain.Database.EmployerContext})">
@@ -627,25 +627,23 @@
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.GetEmployer(System.Linq.Expressions.Expression{System.Func{Devon4Net.WebAPI.Implementation.Domain.Entities.Employer,System.Boolean}})">
             <summary>
-            Gets the Employee
+            Gets the Employer
             </summary>
             <param name="predicate"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.GetEmployerById(System.Int64)">
             <summary>
-            Gets the Employee by id
+            Gets the Employer by id
             </summary>
             <param name="id"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.CreateEmployer(System.String)">
             <summary>
-            Creates the Employee
+            Creates the Employer
             </summary>
             <param name="name"></param>
-            <param name="surName"></param>
-            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.DeleteEmployerById(System.Int64)">
@@ -655,45 +653,57 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.ModifyEmployerById(System.Int64,System.String)">
+            <summary>
+            Modifies te state of the Employee by id
+            </summary>
+            <param name="id"></param>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService">
             <summary>
-            IEmployerService
+            IEmployeeService
             </summary>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.GetEmployer(System.Linq.Expressions.Expression{System.Func{Devon4Net.WebAPI.Implementation.Domain.Entities.Employer,System.Boolean}})">
             <summary>
-            GetEmployer
+            GetEmployee
             </summary>
             <param name="predicate"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.GetEmployerById(System.Int64)">
             <summary>
-            GetEmployerById
+            GetEmployeeById
             </summary>
             <param name="id"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.CreateEmployer(System.String)">
             <summary>
-            CreateEmployer
+            CreateEmployee
             </summary>
             <param name="name"></param>
+            <param name="surName"></param>
+            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.DeleteEmployerById(System.Int64)">
             <summary>
-            DeleteEmployerById
+            DeleteEmployeeById
             </summary>
             <param name="id"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.ModifyEmployerById(System.Int64,System.String)">
             <summary>
-            ModifyEmployerById
+            ModifyEmployeeById
             </summary>
             <param name="id"></param>
             <param name="name"></param>
+            <param name="surName"></param>
+            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.MediatRManagement.Commands.CreateTodoCommand">
@@ -1092,7 +1102,7 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository">
             <summary>
-            Repository implementation for the Employee
+            Repository implementation for the Employer
             </summary>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.#ctor(Devon4Net.WebAPI.Implementation.Domain.Database.EmployerContext)">
@@ -1120,8 +1130,6 @@
             Creates the TODO
             </summary>
             <param name="name"></param>
-            <param name="surName"></param>
-            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.DeleteEmployerById(System.Int64)">
@@ -1200,12 +1208,12 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Domain.Database.EmployerContext">
             <summary>
-            Employee database context definition
+            Employer database context definition
             </summary>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Domain.Database.EmployerContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Devon4Net.WebAPI.Implementation.Domain.Database.EmployerContext})">
             <summary>
-            Employee context definition
+            Employer context definition
             </summary>
             <param name="options"></param>
         </member>
@@ -1281,7 +1289,7 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Domain.Entities.Employer">
             <summary>
-            Entity class for Employee
+            Entity class for Employer
             </summary>
         </member>
         <member name="P:Devon4Net.WebAPI.Implementation.Domain.Entities.Employer.Id">
@@ -1356,14 +1364,14 @@
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.GetEmployer(System.Linq.Expressions.Expression{System.Func{Devon4Net.WebAPI.Implementation.Domain.Entities.Employer,System.Boolean}})">
             <summary>
-            GetEmployee
+            GetEmployer
             </summary>
             <param name="predicate"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.GetEmployerById(System.Int64)">
             <summary>
-            GetEmployeeById
+            GetEmployerById
             </summary>
             <param name="id"></param>
             <returns></returns>
@@ -1373,13 +1381,11 @@
             Create
             </summary>
             <param name="name"></param>
-            <param name="surName"></param>
-            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.DeleteEmployerById(System.Int64)">
             <summary>
-            DeleteEmployeeById
+            DeleteEmployerById
             </summary>
             <param name="id"></param>
             <returns></returns>

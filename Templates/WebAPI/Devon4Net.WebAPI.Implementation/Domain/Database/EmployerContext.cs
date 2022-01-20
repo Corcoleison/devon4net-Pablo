@@ -4,12 +4,12 @@ using Microsoft.EntityFrameworkCore;
 namespace Devon4Net.WebAPI.Implementation.Domain.Database
 {
     /// <summary>
-    /// Employee database context definition
+    /// Employer database context definition
     /// </summary>
     public class EmployerContext : DbContext
     {
         /// <summary>
-        /// Employee context definition
+        /// Employer context definition
         /// </summary>
         /// <param name="options"></param>
         public EmployerContext(DbContextOptions<EmployerContext> options)
@@ -37,11 +37,8 @@ namespace Devon4Net.WebAPI.Implementation.Domain.Database
         /// <param name="modelBuilder"></param>
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Employee>(entity =>
+            modelBuilder.Entity<Employer>(entity =>
             {
-                entity.Property(e => e.Id)
-                    .IsRequired()
-                    .HasMaxLength(255);
                 entity.Property(e => e.Name)
                     .IsRequired()
                     .HasMaxLength(255);

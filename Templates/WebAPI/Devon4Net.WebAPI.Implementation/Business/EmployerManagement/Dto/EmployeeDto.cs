@@ -3,7 +3,7 @@
 namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto
 {
     /// <summary>
-    /// Employee definition
+    /// Employer definition
     /// </summary>
     public class EmployerDto
     {

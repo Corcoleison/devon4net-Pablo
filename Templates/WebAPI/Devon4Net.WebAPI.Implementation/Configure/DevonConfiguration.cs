@@ -108,6 +108,7 @@ namespace Devon4Net.WebAPI.Implementation.Configure
             services.SetupDatabase<TodoContext>(configuration, "Default", DatabaseType.InMemory);
             services.SetupDatabase<EmployeeContext>(configuration, "Employee", DatabaseType.InMemory);
             services.SetupDatabase<EmployerContext>(configuration, "Employer", DatabaseType.InMemory);
+            //services.SetupDatabase<EmployerContext>(configuration, "EmployerPG", DatabaseType.PostgreSQL);
 
 
         }
