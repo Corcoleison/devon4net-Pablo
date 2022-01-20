@@ -554,7 +554,7 @@
             </summary>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.ModifyEmployee(Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controllers.EmployerController.ModifyEmployer(Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Dto.EmployerDto)">
             <summary>
             Modifies the done status of the employee provided the data of the employer
             In this sample, all the data fields are mandatory
@@ -639,10 +639,11 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.CreateEmployer(System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.CreateEmployer(System.Int64,System.String)">
             <summary>
             Creates the Employer
             </summary>
+            <param id="id"></param>
             <param name="name"></param>
             <returns></returns>
         </member>
@@ -680,7 +681,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.CreateEmployer(System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.CreateEmployer(System.Int64,System.String)">
             <summary>
             CreateEmployee
             </summary>
@@ -702,8 +703,6 @@
             </summary>
             <param name="id"></param>
             <param name="name"></param>
-            <param name="surName"></param>
-            <param name="mail"></param>
             <returns></returns>
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.MediatRManagement.Commands.CreateTodoCommand">
@@ -1125,10 +1124,11 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.Create(System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.Create(System.Int64,System.String)">
             <summary>
             Creates the TODO
             </summary>
+            <param id="id"></param>
             <param name="name"></param>
             <returns></returns>
         </member>
@@ -1376,7 +1376,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.Create(System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.Create(System.Int64,System.String)">
             <summary>
             Create
             </summary>
@@ -1387,7 +1387,7 @@
             <summary>
             DeleteEmployerById
             </summary>
-            <param name="id"></param>
+            <param id="id"></param>
             <returns></returns>
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.ITodoRepository">

@@ -57,7 +57,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         public async Task<ActionResult> Create(EmployerDto EmployerDto)
         {
             Devon4NetLogger.Debug("Executing GetEmployer from controller EmployerController");
-            var result = await _employerService.CreateEmployer(EmployerDto.Name).ConfigureAwait(false);
+            var result = await _employerService.CreateEmployer(EmployerDto.Id, EmployerDto.Name).ConfigureAwait(false);
             return StatusCode(StatusCodes.Status201Created, result);
         }
 
@@ -86,12 +86,12 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<ActionResult> ModifyEmployee(EmployerDto EmployerDto)
+        public async Task<ActionResult> ModifyEmployer(EmployerDto EmployerDto)
         {
             Devon4NetLogger.Debug("Executing ModifyEmployer from controller EmployerController");
-            if (EmployerDto == null || EmployerDto.Id == 0)
+            if (EmployerDto == null || EmployerDto.Id==0)
             {
-                return BadRequest("The id of the employee must be provided");
+                return BadRequest("The id of the employer must be provided");
             }
             return Ok(await _employerService.ModifyEmployerById(EmployerDto.Id, EmployerDto.Name).ConfigureAwait(false));
         }

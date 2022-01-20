@@ -33,7 +33,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         /// <param name="surName"></param>
         /// <param name="mail"></param>
         /// <returns></returns>
-        Task<Employer> CreateEmployer(string name);
+        Task<Employer> CreateEmployer(long id, string name);
 
         /// <summary>
         /// DeleteEmployeeById
@@ -47,8 +47,6 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         /// </summary>
         /// <param name="id"></param>
         /// <param name="name"></param>
-        /// <param name="surName"></param>
-        /// <param name="mail"></param>
         /// <returns></returns>
         Task<Employer> ModifyEmployerById(long id, string name);
     }

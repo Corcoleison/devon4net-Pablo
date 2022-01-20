@@ -57,9 +57,10 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
         /// <summary>
         /// Creates the Employer
         /// </summary>
+        /// <param id="id"></param>
         /// <param name="name"></param>
         /// <returns></returns>
-        public Task<Employer> CreateEmployer(string name)
+        public Task<Employer> CreateEmployer(long id, string name)
         {
             Devon4NetLogger.Debug($"SetEmployer method from service Employer service with value : {name}");
 
@@ -68,7 +69,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service
                 throw new ArgumentException("The 'name' field can not be null.");
             }
 
-            return _employerRepository.Create(name);
+            return _employerRepository.Create(id, name);
         }
 
         /// <summary>

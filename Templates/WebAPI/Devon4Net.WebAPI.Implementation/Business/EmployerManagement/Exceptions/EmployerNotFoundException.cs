@@ -7,7 +7,7 @@ using System.Text;
 namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions
 {
     /// <summary>
-    /// Custom exception EmployeeNotFoundException
+    /// Custom exception EmployerNotFoundException
     /// </summary>
     [Serializable]
     public class EmployerNotFoundException : Exception, IWebApiException
