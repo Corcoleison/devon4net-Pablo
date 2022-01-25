@@ -590,7 +590,7 @@
         </member>
         <member name="T:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions.EmployerNotFoundException">
             <summary>
-            Custom exception EmployeeNotFoundException
+            Custom exception EmployerNotFoundException
             </summary>
         </member>
         <member name="P:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Exceptions.EmployerNotFoundException.StatusCode">
