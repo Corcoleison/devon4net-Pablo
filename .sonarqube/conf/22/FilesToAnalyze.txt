@@ -1,21 +1,16 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Command\CommandBase.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Common\ActionBase.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Common\DatabaseConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Common\MediatRActionsEnum.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Data\Service\MediatRBackupLiteDbService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Data\Service\MediatRBackupService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Domain\Database\MediatRBackupContext.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Domain\Database\MediatRBackupLiteDbContext.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Domain\Entities\MediatRBackup.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Domain\ServiceInterfaces\IMediatRBackupLiteDbService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Domain\ServiceInterfaces\IMediatRBackupService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Handler\IMediatRHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Handler\MediatRHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Handler\MediatRRequestHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\MediatRConfiguration.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Model\ModelBase.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Query\QueryBase.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Samples\Dto\UserDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Samples\Handler\GetUserhandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Samples\Model\UserModel.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.MediatR\Samples\Query\GetUserQuery.cs
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Commands\Command.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Common\DatabaseConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Common\QueueActionsEnum.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Data\Service\RabbitMqBackupLiteDbService.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Data\Service\RabbitMqBackupService.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Database\RabbitMqBackupContext.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Database\RabbitMqBackupLiteDbContext.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\Entities\RabbitBackup.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\ServiceInterfaces\IRabbitMqBackupLiteDbService.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Domain\ServiceInterfaces\IRabbitMqBackupService.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Events\Message.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Handlers\RabbitMqHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\RabbitMqConfiguration.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Samples\Commads\UserSampleCommand.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\Samples\Handllers\UserSampleRabbitMqHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.RabbitMQ\RabbitMqBackupSqLite.db

@@ -1,2 +1,6 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\CustomFluentValidator.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\FluentValidationConfiguration.cs
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\Certificates\ClientCertificatesMiddleware.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\Exception\ExceptionHandlingMiddleware.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\Headers\CustomHeadersMiddleware.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\Headers\HeaderTypeConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\Headers\MiddlewareHeaderDefinition.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Middleware\MiddlewareConfiguration.cs

@@ -1,40 +1,35 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\AnsibleTowerConfiguration.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\AnsibleTowerInstance.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\AnsibleRolesConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\AnsibleTowerApiConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\OrganizationRelatedLinksConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\IAnsibleTowerInstance.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\ApiRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\ApplicationsRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\ApplicationsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\GetApplicationsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Created_By.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\CredentialSubset.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Labels.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Modified_By.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Organization.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\PaginatedResultDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\PingResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\RoleItems.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Tokens.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\UserCapabilities.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Credentials\CreateCredentialRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Credentials\GetCredentialsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Inventories\CreateInventoryRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Inventories\GetInventoriesResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetCanCancelResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetCanScheduleResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetJobEventsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetJobResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\JobTemplates\CreateJobTemplateRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\JobTemplates\GetJobTemplatesResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\LoginRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Organizations\CreateOrganizationRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Organizations\OrganizationsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Projects\CreateProjectRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Projects\GetProjectsRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Exceptions\AnsibleTowerUnauthorizedException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Handler\AnsibleTowerHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Handler\IAnsibleTowerHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Devon4Net.Infrastructure.AnsibleTower.xml
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Devon4Net.WebAPI.Implementation.xml
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Common\Const\CyberArkEndpointConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Common\Const\MemberPermissionsConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\CyberArkConfiguration.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AccountDetail.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AddAccountRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AddAccountResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\GetAccountsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Platformaccountproperties.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Remotemachinesaccess.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Secretmanagement.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\AddUserToGroupOldRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\AddUserToGroupRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\CreateGroupRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\GetGroupsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\GroupDetail.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Logon\LogonRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeMemberRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafeResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafesResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafesResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\UpdateSafeRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\UpdateSafeResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\Updatesaferesult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\AddUserRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\DeletedUser.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\GetUserResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\GetUsersRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\RestePasswordRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\UpdateUserRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Exceptions\AnsibleTowerUnauthorizedException.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Handler\CyberArkHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Handler\ICyberArkHandler.cs

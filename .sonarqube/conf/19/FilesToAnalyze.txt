@@ -1,16 +1,2 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\CosmosConfigurationParams.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\DatabaseConfiguration.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\PredicateBuilder.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Enums\DatabaseType.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\ContextNullException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\RepositoryNotFoundException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\TransactionNullException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Pagination\PaginationBase.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Pagination\PaginationResult.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Repository\IRepository.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Repository\Repository.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Service\IService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Service\Service.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWorkConfiguration.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWork\IUnitOfWork.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWork\UnitOfWork.cs
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\CustomFluentValidator.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\FluentValidationConfiguration.cs

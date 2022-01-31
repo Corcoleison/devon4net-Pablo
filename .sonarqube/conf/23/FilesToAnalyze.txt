@@ -1,35 +1,24 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Common\Const\CyberArkEndpointConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Common\Const\MemberPermissionsConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\CyberArkConfiguration.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AccountDetail.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AddAccountRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\AddAccountResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\GetAccountsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Platformaccountproperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Remotemachinesaccess.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Account\Secretmanagement.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\AddUserToGroupOldRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\AddUserToGroupRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\CreateGroupRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\GetGroupsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Group\GroupDetail.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Logon\LogonRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeMemberRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\AddSafeResult.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafeResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafesResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\GetSafesResult.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\UpdateSafeRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\UpdateSafeResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\Safe\Updatesaferesult.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\AddUserRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\DeletedUser.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\GetUserResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\GetUsersRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\RestePasswordRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Dto\User\UpdateUserRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Exceptions\AnsibleTowerUnauthorizedException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Handler\CyberArkHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.CyberArk\Handler\ICyberArkHandler.cs
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsCustomMessage.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsFunctionResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsMessageHandlerResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Functions\SnsFunction.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Handlers\SnsFunctionEventHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Handlers\SnsMessageHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsCustomMessage.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsFunctionResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsMessageHandlerResult.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Functions\SqsFunction.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Handlers\SqsFunctionEventHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Handlers\SqsMessageHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\InputData.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\LowerInput.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\UpperInput.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Functions\Lower\LowerFunction.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Functions\Upper\UpperFunction.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Handlers\Lower\LowerFunctionEventHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Handlers\Upper\UpperFunctionEventHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\appsettings.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\aws-lambda-tools-defaults.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\Properties\launchSettings.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\Readme.md
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\serverless.template

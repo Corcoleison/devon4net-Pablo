@@ -1,130 +1,40 @@
-﻿C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\BulkDataDomainsConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\BulkEntityConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\BulkImpactScopeConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\BulkOperationConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\BulkUrgencyConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\ComponentPropertyTypesConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\DesignConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\OfferingStatusConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\OfferingTypeConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\PhaseIdValuesConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\SmaxHcmEndpointConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Common\SubscriptionActionTypeConst.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Catalog\QueryCatalogRequest.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Common\EntityDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Common\Ext.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignContainer\CreateDesignContainerDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignContainer\CreateDesignContainerRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignContainer\CreateDesignContainerResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignVersion\CreateDesignVersionDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignVersion\CreateDesignVersionRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\CreateDesignVersion\CreateDesignVersionResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\GetDesignResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\GetDesignTags\GetDesignTagsRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\GetDesignTags\GetDesignTagsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\GetIconsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\GetOverviewFromComponentResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\PublishDesignResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\ApplyComponentTemplateToComponent\ApplyComponentTemplateToComponentDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\ApplyComponentTemplateToComponent\ApplyComponentTemplateToComponentRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\ApplyComponentTemplateToComponent\ApplyComponentTemplateToComponentResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\CreateComponentsAndRelations\CreateComponentsAndRelationsDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\CreateComponentsAndRelations\CreateComponentsAndRelationsRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\CreateComponentsAndRelations\CreateComponentsAndRelationsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\GetComponentsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\GetComponentTemplatesFromComponentTypeResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\GetPropertiesFromComponentResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\GetServiceDesignerMetamodelResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdateComponent\UpdateComponentDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdateComponent\UpdateComponentRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdatePropertyFromComponent\UpdateListPropertyFromComponentDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdatePropertyFromComponent\UpdatePropertyFromComponentDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdatePropertyFromComponent\UpdatePropertyFromComponentRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdatePropertyFromComponent\UpdatePropertyFromComponentResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Designer\ServiceDesigner\UpdatePropertyFromComponent\UpdatePropertyListDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\AuthenticateRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\AuthenticateResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\LoginRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\Passwordcredentials.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\ResultAuthenticateResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\TokenResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Login\UserLoginRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\AddAgregatedOfferingDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\AddAgregatedOfferingRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\AddAgregatedOfferingResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\AgregatedOfferingProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\AgregatedOfferingRelatedpropertiesmap.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Cascadingrule.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Changedfields.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\CreateBulkOfferingRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\CreateOfferingRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\CreateOfferingResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Disablefield.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Enumcascadingrule.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Enumerationdescriptor.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\EnumerationdescriptorValue.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Externalparameters.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Fieldselectionrule.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\GetOfferingProvidersRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\GetOfferingProvidersResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\GetOfferingResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\GetOfferingsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Hidefield.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Hidesection.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Localizedlabels.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingDetailProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingEntity.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingFilter.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingMeta.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingRelatedProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\OfferingService.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Renderingrule.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Simulationresult.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\SwitchActivationOfferingRequest.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\SwitchActivationOfferingResponse.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\UpdateOfferingDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\UpdateOfferingRequest.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Useroptionsdata.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Useroptionsdescriptor.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Offering\Useroptionspropertydescriptor.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Providers\GetProvidersResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\AbandonRequest\AbandonRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\AbandonRequest\AbandonRequestEntity.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\AbandonRequest\AbandonRequestProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\AbandonRequest\AbandonRequestResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\CreateRequest\CreateRequestDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\CreateRequest\CreateRequestEntity.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\CreateRequest\CreateRequestProperties.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\CreateRequest\CreateRequestPropertiesDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\CreateRequest\CreateRequestResponse.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\GetAllRequestsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\GetRequestResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\GetUsersByUserNameResponse.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Request\UserOptions\UserOptionsDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Tenants\GetUserTenantsResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Tenants\TenantEntityDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Users\GetRestUserResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Users\GetUsersResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Users\SmaxGetUserResponseDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Dto\Users\UserEntityDto.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateDesignExceptions\SmaxHcmGetDesignContainerException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateDesignExceptions\SmaxHcmGetDesignTagsException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateDesignExceptions\SmaxHcmGetDesignVersionException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateOfferingExceptions\SmaxHcmAddAgregateOfferingException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateOfferingExceptions\SmaxHcmGetOfferingProvidersException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateOfferingExceptions\SmaxHcmSwitchActivationOfferingException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateRequestExceptions\SmaxHcmCreateRequestException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\CreateRequestExceptions\SmaxHcmGetUsersByUserNameException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmApplyComponentTemplateToComponentException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmCreateComponentsAndRelationsException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmGetComponentTemplatesFromComponentTypeException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmGetPropertiesFromComponentException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmGetServiceDesignMetamodelException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\FillDesignExceptions\SmaxHcmUpdatePropertyFromComponentException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\PublishDesignExceptions\SmaxHcmPublishDesignVersionException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\SmaxHcmGenericException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Exceptions\SmaxHcmUnauthorizedException.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Handler\ISmaxHcmHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\Handler\SmaxHcmHandler.cs
-C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.SmaxHcm\SmaxHcmConfiguration.cs
+﻿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\AnsibleTowerConfiguration.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\AnsibleTowerInstance.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\AnsibleRolesConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\AnsibleTowerApiConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\Const\OrganizationRelatedLinksConst.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Common\IAnsibleTowerInstance.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\ApiRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\ApplicationsRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\ApplicationsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Applications\GetApplicationsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Created_By.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\CredentialSubset.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Labels.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Modified_By.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Organization.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\PaginatedResultDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\PingResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\RoleItems.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\Tokens.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Common\UserCapabilities.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Credentials\CreateCredentialRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Credentials\GetCredentialsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Inventories\CreateInventoryRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Inventories\GetInventoriesResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetCanCancelResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetCanScheduleResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetJobEventsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Jobs\GetJobResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\JobTemplates\CreateJobTemplateRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\JobTemplates\GetJobTemplatesResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\LoginRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Organizations\CreateOrganizationRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Organizations\OrganizationsResponseDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Projects\CreateProjectRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Dto\Projects\GetProjectsRequestDto.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Exceptions\AnsibleTowerUnauthorizedException.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Handler\AnsibleTowerHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Handler\IAnsibleTowerHandler.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Devon4Net.Infrastructure.AnsibleTower.xml
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.AnsibleTower\Devon4Net.WebAPI.Implementation.xml
