@@ -31,7 +31,7 @@ namespace Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces
         /// </summary>
         /// <param name="name"></param>
         /// <returns></returns>
-        Task<Employer> Create(long id, string name);
+        Task<Employer> Create(string name);
 
         /// <summary>
         /// DeleteEmployerById

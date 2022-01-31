@@ -639,7 +639,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.CreateEmployer(System.Int64,System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.EmployerService.CreateEmployer(System.String)">
             <summary>
             Creates the Employer
             </summary>
@@ -681,7 +681,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.CreateEmployer(System.Int64,System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Service.IEmployerService.CreateEmployer(System.String)">
             <summary>
             CreateEmployee
             </summary>
@@ -1124,7 +1124,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.Create(System.Int64,System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Data.Repositories.EmployerRepository.Create(System.String)">
             <summary>
             Creates the TODO
             </summary>
@@ -1376,7 +1376,7 @@
             <param name="id"></param>
             <returns></returns>
         </member>
-        <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.Create(System.Int64,System.String)">
+        <member name="M:Devon4Net.WebAPI.Implementation.Domain.RepositoryInterfaces.IEmployerRepository.Create(System.String)">
             <summary>
             Create
             </summary>

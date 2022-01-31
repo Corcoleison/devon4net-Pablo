@@ -57,7 +57,7 @@ namespace Devon4Net.WebAPI.Implementation.Business.EmployerManagement.Controller
         public async Task<ActionResult> Create(EmployerDto EmployerDto)
         {
             Devon4NetLogger.Debug("Executing GetEmployer from controller EmployerController");
-            var result = await _employerService.CreateEmployer(EmployerDto.Id, EmployerDto.Name).ConfigureAwait(false);
+            var result = await _employerService.CreateEmployer(EmployerDto.Name).ConfigureAwait(false);
             return StatusCode(StatusCodes.Status201Created, result);
         }
 

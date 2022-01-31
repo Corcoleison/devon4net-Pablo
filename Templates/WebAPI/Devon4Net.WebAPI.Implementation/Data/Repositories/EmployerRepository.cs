@@ -51,10 +51,10 @@ namespace Devon4Net.WebAPI.Implementation.Data.Repositories
         /// <param id="id"></param>
         /// <param name="name"></param>
         /// <returns></returns>
-        public Task<Employer> Create(long id, string name)
+        public Task<Employer> Create(string name)
         {
             Devon4NetLogger.Debug($"SetTodo method from repository Employeeervice with value : {name}");
-            return Create(new Employer {Id=id, Name = name});
+            return Create(new Employer {Name = name});
         }
 
         /// <summary>
