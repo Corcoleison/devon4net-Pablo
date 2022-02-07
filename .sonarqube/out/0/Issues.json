@@ -1,0 +1,372 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsVpcHandler.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 20,
+                  "endLine": 8,
+                  "endColumn": 310
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsSecurityGroupHandler.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 30,
+                  "endLine": 7,
+                  "endColumn": 181
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 9 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsSecurityGroupHandler.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 30,
+                  "endLine": 8,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 23 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 37,
+                  "endLine": 14,
+                  "endColumn": 671
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 23 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 37,
+                  "endLine": 15,
+                  "endColumn": 674
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 38,
+                  "endLine": 16,
+                  "endColumn": 662
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 38,
+                  "endLine": 17,
+                  "endColumn": 658
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 38,
+                  "endLine": 20,
+                  "endColumn": 661
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 40,
+                  "endLine": 21,
+                  "endColumn": 199
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 38,
+                  "endLine": 19,
+                  "endColumn": 660
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 20,
+                  "endLine": 22,
+                  "endColumn": 287
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Interfaces/IAwsCdkHandler.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 38,
+                  "endLine": 18,
+                  "endColumn": 659
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 23 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Handlers/AwsCdkDatabaseHandler.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 54,
+                  "endLine": 55,
+                  "endColumn": 675
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 21 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Handlers/AwsCdkDatabaseHandler.cs",
+                "region": {
+                  "startLine": 89,
+                  "startColumn": 48,
+                  "endLine": 89,
+                  "endColumn": 642
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 10 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Handlers/AwsCdkDatabaseHandler.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 40,
+                  "endLine": 132,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S107",
+          "level": "warning",
+          "message": "Method has 8 parameters, which is greater than the 7 authorized.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.CDK/Handlers/AwsCdkHandler.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 47,
+                  "endLine": 68,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S107": {
+          "id": "S107",
+          "shortDescription": "Methods should not have too many parameters",
+          "fullDescription": "A long parameter list can indicate that a new structure should be created to wrap the numerous parameters or that the function is doing too many things.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-107",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

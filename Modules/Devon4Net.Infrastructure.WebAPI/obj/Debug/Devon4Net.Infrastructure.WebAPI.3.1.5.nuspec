@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Devon4Net.Infrastructure.WebAPI</id>
+    <version>3.1.5</version>
+    <authors>Capgemini, ADCenter Valencia, Traiectum Team</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://www.devonfw.com/</projectUrl>
+    <description>Configuration library for devon4net webapi template</description>
+    <releaseNotes>devonfw net core 3.0 compatibility version</releaseNotes>
+    <copyright>Copyright © Capgemini</copyright>
+    <tags>devonfw devon4net Capgemini webapi API middleware framework</tags>
+    <repository url="https://github.com/devonfw/devon4net" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Devon4Net.Infrastructure.AnsibleTower" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.CircuitBreaker" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Common" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Cors" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.CyberArk" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Extensions" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Grpc" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.JWT" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Kafka" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.LiteDb" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Log" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.MediatR" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Middleware" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.RabbitMQ" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.SmaxHcm" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Swagger" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.UnitOfWork" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="EasyNetQ" version="6.3.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Cors" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="3.4.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="5.6.3" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.Annotations" version="5.6.3" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.Filters" version="6.0.1" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.Swagger" version="5.6.3" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore.SwaggerUi" version="5.6.3" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="6.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.WebAPI\bin\Debug\netcoreapp3.1\Devon4Net.Infrastructure.WebAPI.dll" target="lib\netcoreapp3.1\Devon4Net.Infrastructure.WebAPI.dll" />
+  </files>
+</package>

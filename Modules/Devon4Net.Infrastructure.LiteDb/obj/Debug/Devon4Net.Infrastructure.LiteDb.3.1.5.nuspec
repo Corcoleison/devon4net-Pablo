@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Devon4Net.Infrastructure.LiteDb</id>
+    <version>3.1.5</version>
+    <authors>Capgemini, ADCenter Valencia, Traiectum Team</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://www.devonfw.com/</projectUrl>
+    <description>LiteDB classes to manage the LiteDB local database in a easy way</description>
+    <releaseNotes>Netstandard 2.1 for devonfw net core 3.1.3 compatibility version</releaseNotes>
+    <copyright>Copyright © Capgemini</copyright>
+    <tags>devonfw devon4net Capgemini LiteDB</tags>
+    <repository url="https://github.com/devonfw/devon4net" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Devon4Net.Infrastructure.Common" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="Devon4Net.Infrastructure.Log" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="LiteDB" version="5.0.9" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="3.1.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.LiteDb\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.LiteDb.dll" target="lib\netstandard2.1\Devon4Net.Infrastructure.LiteDb.dll" />
+  </files>
+</package>

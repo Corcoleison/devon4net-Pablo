@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0693",
+          "level": "warning",
+          "message": "Type parameter 'T' has the same name as the type parameter from outer type 'Repository<T>'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.UnitOfWork/Repository/Repository.cs",
+                "region": {
+                  "startLine": 153,
+                  "startColumn": 40,
+                  "endLine": 153,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.UnitOfWork/Common/DatabaseConfiguration.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 17,
+                  "endLine": 127,
+                  "endColumn": 110
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2589",
+          "level": "warning",
+          "message": "Change this condition so that it does not always evaluate to 'false'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.UnitOfWork/Common/DatabaseConfiguration.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 64,
+                  "endLine": 20,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0693": {
+          "id": "CS0693",
+          "shortDescription": "Type parameter has the same name as the type parameter from outer type",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0693)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2589": {
+          "id": "S2589",
+          "shortDescription": "Boolean expressions should not be gratuitous",
+          "fullDescription": "If a boolean expression doesn’t change the evaluation of the condition, then it is entirely unnecessary, and can be removed. If it is gratuitous because it does not match the programmer’s intent, then it’s a bug and the expression should be fixed.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2589",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

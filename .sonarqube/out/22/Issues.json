@@ -1,0 +1,241 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS0693",
+          "level": "warning",
+          "message": "Type parameter 'T' has the same name as the type parameter from outer type 'RabbitMqHandler<T>'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Handlers/RabbitMqHandler.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 30,
+                  "endLine": 62,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Samples/Handllers/UserSampleRabbitMqHandler.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 42,
+                  "endLine": 35,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Data/Service/RabbitMqBackupService.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 17,
+                  "endLine": 128,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2344",
+          "level": "warning",
+          "message": "Rename this enumeration to remove the 'Enum' suffix.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Common/QueueActionsEnum.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 17,
+                  "endLine": 3,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4457",
+          "level": "warning",
+          "message": "Split this method into two, one handling parameters check and the other handling the asynchronous code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Data/Service/RabbitMqBackupService.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 41,
+                  "endLine": 36,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Data/Service/RabbitMqBackupService.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 27,
+                  "endLine": 46,
+                  "endColumn": 106
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Data/Service/RabbitMqBackupService.cs",
+                "region": {
+                  "startLine": 51,
+                  "startColumn": 27,
+                  "endLine": 52,
+                  "endColumn": 113
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.RabbitMQ/Data/Service/RabbitMqBackupService.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 27,
+                  "endLine": 57,
+                  "endColumn": 117
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS0693": {
+          "id": "CS0693",
+          "shortDescription": "Type parameter has the same name as the type parameter from outer type",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0693)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2344": {
+          "id": "S2344",
+          "shortDescription": "Enumeration type names should not have \"Flags\" or \"Enum\" suffixes",
+          "fullDescription": "The information that an enumeration type is actually an enumeration or a set of flags should not be duplicated in its name.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2344",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4457": {
+          "id": "S4457",
+          "shortDescription": "Parameter validation in \"async\"/\"await\" methods should be wrapped",
+          "fullDescription": "Because of the way async/await methods are rewritten by the compiler, any exceptions thrown during the parameters check will happen only when the task is observed. That could happen far away from the source of the buggy code or never happen for fire-and-forget tasks.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4457",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

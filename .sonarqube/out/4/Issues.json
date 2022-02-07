@@ -1,0 +1,173 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21451.6 (0b1a27fd)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private method 'IsJson'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsConfigurationProvider.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 9,
+                  "endLine": 15,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3881",
+          "level": "warning",
+          "message": "Fix this implementation of 'IDisposable' to conform to the dispose pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsHandler.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsHandler.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsHandler.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 21,
+                  "endLine": 70,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Provide 'protected' overridable implementation of 'Dispose(bool)' on 'AwsSecretsHandler' or mark the type as 'sealed'.",
+              "1": "'AwsSecretsHandler.Dispose()' should call 'Dispose(true)' and 'GC.SuppressFinalize(this)'."
+            }
+          }
+        },
+        {
+          "ruleId": "S3881",
+          "level": "warning",
+          "message": "Fix this implementation of 'IDisposable' to conform to the dispose pattern.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsConfigurationProvider.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsConfigurationProvider.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 18,
+                  "endLine": 13,
+                  "endColumn": 49
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/pcorcole/OneDrive%20-%20Capgemini/Desktop/Example/devon4net-net3.1/devon4net-net3.1/source/Modules/Devon4Net.Infrastructure.AWS.Secrets/AwsSecretsConfigurationProvider.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 21,
+                  "endLine": 28,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Provide 'protected' overridable implementation of 'Dispose(bool)' on 'AwsSecretsConfigurationProvider' or mark the type as 'sealed'.",
+              "1": "'AwsSecretsConfigurationProvider.Dispose()' should call 'Dispose(true)' and 'GC.SuppressFinalize(this)'."
+            }
+          }
+        }
+      ],
+      "rules": {
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "private or internal types or private members that are never executed or referenced are dead code: unnecessary, inoperative code that should be removed. Cleaning out dead code decreases the size of the maintained codebase, making it easier to understand the program and preventing bugs from being introduced.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1144",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        },
+        "S3881": {
+          "id": "S3881",
+          "shortDescription": "\"IDisposable\" should be implemented correctly",
+          "fullDescription": "The IDisposable interface is a mechanism to release unmanaged resources, if not implemented correctly this could result in resource leaks or more severe bugs.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3881",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

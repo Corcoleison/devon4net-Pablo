@@ -1,0 +1,26 @@
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.deps.json
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.AssemblyReference.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.AssemblyInfoInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.AssemblyInfo.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.CopyComplete
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.deps.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.AssemblyReference.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.AssemblyInfoInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.AssemblyInfo.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.csproj.CopyComplete
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Log\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Log.pdb

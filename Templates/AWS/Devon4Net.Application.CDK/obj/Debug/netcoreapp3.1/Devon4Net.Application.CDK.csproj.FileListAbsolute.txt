@@ -1,0 +1,132 @@
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.exe
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.deps.json
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.runtimeconfig.json
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.runtimeconfig.dev.json
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.Assets.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.ApplicationAutoScaling.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.AutoScaling.Common.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.CloudWatch.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.CodeGuruProfiler.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.EC2.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.ECR.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.EFS.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Events.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.IAM.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.KMS.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Lambda.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Logs.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.RDS.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.S3.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.S3.Assets.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SAM.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SecretsManager.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SQS.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SSM.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.CloudAssembly.Schema.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.CXAPI.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.ECR.Assets.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.RegionInfo.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.JSII.Runtime.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWS.Logger.AspNetCore.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWS.Logger.Core.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWSSDK.CloudWatchLogs.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Constructs.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Infrastructure.AWS.CDK.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Infrastructure.AWS.CDK.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.AssemblyReference.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.AssemblyInfoInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.AssemblyInfo.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.CopyComplete
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.genruntimeconfig.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.exe
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.deps.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.runtimeconfig.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.runtimeconfig.dev.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Application.CDK.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.Assets.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.ApplicationAutoScaling.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.AutoScaling.Common.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.CloudWatch.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.CodeGuruProfiler.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.EC2.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.ECR.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.EFS.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Events.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.IAM.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.KMS.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Lambda.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.Logs.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.RDS.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.S3.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.S3.Assets.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SAM.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SecretsManager.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SQS.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.AWS.SSM.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.CloudAssembly.Schema.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.CXAPI.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.ECR.Assets.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.CDK.RegionInfo.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Amazon.JSII.Runtime.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWS.Logger.AspNetCore.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWS.Logger.Core.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWSSDK.CloudWatchLogs.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Constructs.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Infrastructure.AWS.CDK.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\bin\Debug\netcoreapp3.1\Devon4Net.Infrastructure.AWS.CDK.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.AssemblyReference.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.AssemblyInfoInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.AssemblyInfo.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.csproj.CopyComplete
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.CDK\obj\Debug\netcoreapp3.1\Devon4Net.Application.CDK.genruntimeconfig.cache

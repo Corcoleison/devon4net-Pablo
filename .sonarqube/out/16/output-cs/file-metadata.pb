@@ -1,0 +1,19 @@
+¹
+¯C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\CosmosConfigurationParams.csutf-8µ
+«C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\DatabaseConfiguration.csutf-8°
+¦C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Common\PredicateBuilder.csutf-8«
+¡C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Enums\DatabaseType.csutf-8¸
+®C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\ContextNullException.csutf-8¿
+µC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\RepositoryNotFoundException.csutf-8¼
+²C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Exceptions\TransactionNullException.csutf-8²
+¨C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Pagination\PaginationBase.csutf-8´
+ªC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Pagination\PaginationResult.csutf-8¯
+¥C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Repository\IRepository.csutf-8®
+¤C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Repository\Repository.csutf-8©
+ŸC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Service\IService.csutf-8¨
+žC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\Service\Service.csutf-8°
+¦C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWorkConfiguration.csutf-8¯
+¥C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWork\IUnitOfWork.csutf-8®
+¤C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\UnitOfWork\UnitOfWork.csutf-8à
+ÔC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8ä
+ØC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.UnitOfWork.AssemblyInfo.csutf-8

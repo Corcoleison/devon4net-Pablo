@@ -1,0 +1,22 @@
+Ã
+¹C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsCustomMessage.csutf-8Ä
+ºC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsFunctionResult.csutf-8Ê
+ÀC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Dto\SnsMessageHandlerResult.csutf-8Ä
+ºC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Functions\SnsFunction.csutf-8Ï
+ÅC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Handlers\SnsFunctionEventHandler.csutf-8É
+¿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SnsManagement\Handlers\SnsMessageHandler.csutf-8Ã
+¹C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsCustomMessage.csutf-8Ä
+ºC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsFunctionResult.csutf-8Ê
+ÀC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Dto\SqsMessageHandlerResult.csutf-8Ä
+ºC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Functions\SqsFunction.csutf-8Ï
+ÅC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Handlers\SqsFunctionEventHandler.csutf-8É
+¿C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\SqsManagement\Handlers\SqsMessageHandler.csutf-8¿
+µC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\InputData.csutf-8À
+¶C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\LowerInput.csutf-8À
+¶C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Dto\UpperInput.csutf-8Ï
+ÅC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Functions\Lower\LowerFunction.csutf-8Ï
+ÅC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Functions\Upper\UpperFunction.csutf-8Ú
+ÐC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Handlers\Lower\LowerFunctionEventHandler.csutf-8Ú
+ÐC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\business\StringManagement\Handlers\Upper\UpperFunctionEventHandler.csutf-8Ý
+ÑC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8Û
+ÏC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.Lambda\obj\Debug\netcoreapp3.1\Devon4Net.Application.Lambda.AssemblyInfo.csutf-8

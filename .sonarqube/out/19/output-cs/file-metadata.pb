@@ -1,0 +1,5 @@
+´
+ªC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\CustomFluentValidator.csutf-8¼
+²C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\FluentValidationConfiguration.csutf-8æ
+ÚC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8ð
+äC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.FluentValidation\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.FluentValidation.AssemblyInfo.csutf-8

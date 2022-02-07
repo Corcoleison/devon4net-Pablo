@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Devon4Net.Infrastructure.UnitOfWork</id>
+    <version>3.1.5</version>
+    <authors>Capgemini, ADCenter Valencia, Traiectum Team</authors>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://www.devonfw.com/</projectUrl>
+    <description>Entity framework unit of work implementation</description>
+    <releaseNotes>Netstandard 2.1 for devonfw net core 3.1 compatibility version</releaseNotes>
+    <copyright>Copyright © Capgemini</copyright>
+    <tags>devonfw devon4net UOW Capgemini</tags>
+    <repository url="https://github.com/devonfw/devon4net" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Devon4Net.Infrastructure.Log" version="3.1.5" exclude="Build,Analyzers" />
+        <dependency id="EntityFrameworkCore.FirebirdSQL" version="2.1.2.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Analyzers" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Cosmos" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.InMemory" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="3.1.4" exclude="Build,Analyzers" />
+        <dependency id="Oracle.EntityFrameworkCore" version="2.19.80" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="3.2.4" exclude="Build,Analyzers" />
+        <dependency id="System.Linq.Expressions" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.UnitOfWork\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.UnitOfWork.dll" target="lib\netstandard2.1\Devon4Net.Infrastructure.UnitOfWork.dll" />
+  </files>
+</package>

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Devon4Net.Application.WebAPI.AwsServerless
+build_property.ProjectDir = C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Templates\AWS\Devon4Net.Application.WebAPI.AwsServerless\

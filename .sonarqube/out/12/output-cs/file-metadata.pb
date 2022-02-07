@@ -1,0 +1,4 @@
+ª
+ C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Swagger\SwaggerConfiguration.csutf-8Ý
+ÑC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Swagger\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8Þ
+ÒC:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Swagger\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Swagger.AssemblyInfo.csutf-8

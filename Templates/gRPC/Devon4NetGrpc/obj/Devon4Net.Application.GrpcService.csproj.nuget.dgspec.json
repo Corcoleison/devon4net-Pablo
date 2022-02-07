@@ -1,0 +1,1815 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Templates\\gRPC\\Devon4NetGrpc\\Devon4Net.Application.GrpcService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\Devon4Net.Infrastructure.AnsibleTower.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\Devon4Net.Infrastructure.AnsibleTower.csproj",
+        "projectName": "Devon4Net.Infrastructure.AnsibleTower",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\Devon4Net.Infrastructure.AnsibleTower.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605",
+            "NU1608",
+            "NU1701"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj",
+        "projectName": "Devon4Net.Infrastructure.CircuitBreaker",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj",
+        "projectName": "Devon4Net.Infrastructure.Common",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\Devon4Net.Infrastructure.Cors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\Devon4Net.Infrastructure.Cors.csproj",
+        "projectName": "Devon4Net.Infrastructure.Cors",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\Devon4Net.Infrastructure.Cors.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\Devon4Net.Infrastructure.CyberArk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\Devon4Net.Infrastructure.CyberArk.csproj",
+        "projectName": "Devon4Net.Infrastructure.CyberArk",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\Devon4Net.Infrastructure.CyberArk.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj",
+        "projectName": "Devon4Net.Infrastructure.Extensions",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.AspNetCore.Localization": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\Devon4Net.Infrastructure.Grpc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\Devon4Net.Infrastructure.Grpc.csproj",
+        "projectName": "Devon4Net.Infrastructure.Grpc",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\Devon4Net.Infrastructure.Grpc.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          },
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.33.1, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.33.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.33.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj",
+        "projectName": "Devon4Net.Infrastructure.JWT",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          },
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\Devon4Net.Infrastructure.Kafka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\Devon4Net.Infrastructure.Kafka.csproj",
+        "projectName": "Devon4Net.Infrastructure.Kafka",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\Devon4Net.Infrastructure.Kafka.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Confluent.SchemaRegistry": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Confluent.SchemaRegistry.Serdes.Avro": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Confluent.SchemaRegistry.Serdes.Json": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Confluent.SchemaRegistry.Serdes.Protobuf": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj",
+        "projectName": "Devon4Net.Infrastructure.LiteDb",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj",
+        "projectName": "Devon4Net.Infrastructure.Log",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.Graylog.Extended": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Serilog.Sinks.SQLite.NetStandard": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\Devon4Net.Infrastructure.MediatR.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\Devon4Net.Infrastructure.MediatR.csproj",
+        "projectName": "Devon4Net.Infrastructure.MediatR",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\Devon4Net.Infrastructure.MediatR.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EntityFrameworkCore.FirebirdSQL": {
+              "target": "Package",
+              "version": "[2.1.2.2, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\Devon4Net.Infrastructure.Middleware.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\Devon4Net.Infrastructure.Middleware.csproj",
+        "projectName": "Devon4Net.Infrastructure.Middleware",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\Devon4Net.Infrastructure.Middleware.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\Devon4Net.Infrastructure.RabbitMQ.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\Devon4Net.Infrastructure.RabbitMQ.csproj",
+        "projectName": "Devon4Net.Infrastructure.RabbitMQ",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\Devon4Net.Infrastructure.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605",
+            "NU1608",
+            "NU1701"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "EntityFrameworkCore.FirebirdSQL": {
+              "target": "Package",
+              "version": "[2.1.2.2, )"
+            },
+            "LiteDB": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\Devon4Net.Infrastructure.SmaxHcm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\Devon4Net.Infrastructure.SmaxHcm.csproj",
+        "projectName": "Devon4Net.Infrastructure.SmaxHcm",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\Devon4Net.Infrastructure.SmaxHcm.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\Devon4Net.Infrastructure.Swagger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\Devon4Net.Infrastructure.Swagger.csproj",
+        "projectName": "Devon4Net.Infrastructure.Swagger",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\Devon4Net.Infrastructure.Swagger.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\Devon4Net.Infrastructure.UnitOfWork.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\Devon4Net.Infrastructure.UnitOfWork.csproj",
+        "projectName": "Devon4Net.Infrastructure.UnitOfWork",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\Devon4Net.Infrastructure.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605",
+            "NU1608",
+            "NU1701"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EntityFrameworkCore.FirebirdSQL": {
+              "target": "Package",
+              "version": "[2.1.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Cosmos": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.19.80, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\Devon4Net.Infrastructure.WebAPI.csproj": {
+      "version": "3.1.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\Devon4Net.Infrastructure.WebAPI.csproj",
+        "projectName": "Devon4Net.Infrastructure.WebAPI",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\Devon4Net.Infrastructure.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\Devon4Net.Infrastructure.AnsibleTower.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.AnsibleTower\\Devon4Net.Infrastructure.AnsibleTower.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CircuitBreaker\\Devon4Net.Infrastructure.CircuitBreaker.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Common\\Devon4Net.Infrastructure.Common.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\Devon4Net.Infrastructure.Cors.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Cors\\Devon4Net.Infrastructure.Cors.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\Devon4Net.Infrastructure.CyberArk.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.CyberArk\\Devon4Net.Infrastructure.CyberArk.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Extensions\\Devon4Net.Infrastructure.Extensions.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\Devon4Net.Infrastructure.Grpc.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Grpc\\Devon4Net.Infrastructure.Grpc.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.JWT\\Devon4Net.Infrastructure.JWT.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\Devon4Net.Infrastructure.Kafka.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Kafka\\Devon4Net.Infrastructure.Kafka.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.LiteDb\\Devon4Net.Infrastructure.LiteDb.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Log\\Devon4Net.Infrastructure.Log.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\Devon4Net.Infrastructure.MediatR.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.MediatR\\Devon4Net.Infrastructure.MediatR.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\Devon4Net.Infrastructure.Middleware.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Middleware\\Devon4Net.Infrastructure.Middleware.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\Devon4Net.Infrastructure.RabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.RabbitMQ\\Devon4Net.Infrastructure.RabbitMQ.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\Devon4Net.Infrastructure.SmaxHcm.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.SmaxHcm\\Devon4Net.Infrastructure.SmaxHcm.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\Devon4Net.Infrastructure.Swagger.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.Swagger\\Devon4Net.Infrastructure.Swagger.csproj"
+              },
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\Devon4Net.Infrastructure.UnitOfWork.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.UnitOfWork\\Devon4Net.Infrastructure.UnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1605",
+            "NU1608",
+            "NU1701",
+            "NU5104"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUi": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Templates\\gRPC\\Devon4NetGrpc\\Devon4Net.Application.GrpcService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Templates\\gRPC\\Devon4NetGrpc\\Devon4Net.Application.GrpcService.csproj",
+        "projectName": "Devon4Net.Application.GrpcService",
+        "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Templates\\gRPC\\Devon4NetGrpc\\Devon4Net.Application.GrpcService.csproj",
+        "packagesPath": "C:\\Users\\pcorcole\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Templates\\gRPC\\Devon4NetGrpc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pcorcole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\Devon4Net.Infrastructure.WebAPI.csproj": {
+                "projectPath": "C:\\Users\\pcorcole\\OneDrive - Capgemini\\Desktop\\Example\\devon4net-net3.1\\devon4net-net3.1\\source\\Modules\\Devon4Net.Infrastructure.WebAPI\\Devon4Net.Infrastructure.WebAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.33.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

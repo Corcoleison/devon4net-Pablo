@@ -1,0 +1,26 @@
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.deps.json
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.pdb
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.AssemblyReference.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.AssemblyInfoInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.AssemblyInfo.cs
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.CopyComplete
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.dll
+C:\Users\pcorcole\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.deps.json
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\bin\Debug\netstandard2.1\Devon4Net.Infrastructure.Common.pdb
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.AssemblyReference.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.AssemblyInfoInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.AssemblyInfo.cs
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.CoreCompileInputs.cache
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.csproj.CopyComplete
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.dll
+C:\Users\pcorcole\OneDrive - Capgemini\Desktop\Example\devon4net-net3.1\devon4net-net3.1\source\Modules\Devon4Net.Infrastructure.Grpc\obj\Debug\netstandard2.1\Devon4Net.Infrastructure.Grpc.pdb
